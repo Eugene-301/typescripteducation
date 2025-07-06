@@ -30,7 +30,7 @@
 - [Infer](.): ✗
 - [Project configuration (tsconfig and vite)](.): ✗
 
-* The education plan is conditional and something may change along the way.
+### *The education plan is conditional and something may change along the way.
 
 ### Src folder presented sources of completed topics and explanatory comments
 
