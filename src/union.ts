@@ -1,3 +1,5 @@
+export {};
+
 // union type
 // is means that variable can have value type one of specified data types
 

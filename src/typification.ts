@@ -1,3 +1,5 @@
+export {};
+
 // types cheking on compile time rather than execution. Is static typification
 
 const five: number = 5; // explicit typing
