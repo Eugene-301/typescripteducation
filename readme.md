@@ -9,8 +9,8 @@
     - [Intersection](./src/intersection.ts): ✓
 - [Super type and sub type](./src/superTypesAndSubTypes.ts): ✓
 - [Special types](.): ↺
-    - [Any type](.): ↺
-    - [Unkown type](.): ✗
+    - [Any type](.): ✓
+    - [Unkown type](.): ↺
     - [Never type](.): ✗
     - [Void type](.): ✗
 - [Composite types](.): ✗
