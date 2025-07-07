@@ -1,6 +1,6 @@
 export {};
 
-// never type is impossible data type it means we get they if function did not return value
+// never type is impossible data type it means we get they if function can`t return value
 
 let neverValue: never;
 let stringValue: string = neverValue;

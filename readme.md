@@ -8,14 +8,14 @@
     - [Union](./src/union.ts): ✓
     - [Intersection](./src/intersection.ts): ✓
 - [Super type and sub type](./src/superTypesAndSubTypes.ts): ✓
-- Special types: ↺
-    - [Any type](.): ✓
-    - [Unkown type](.): ✓
-    - [Never type](.): ✓
-    - [Void type](.): ↺
+- Special types: ✓
+    - [Any type](./src/any.ts): ✓
+    - [Unkown type](./src/unkown.ts): ✓
+    - [Never type](./src/never.ts): ✓
+    - [Void type](./src/void.ts): ✓
 - [Composite types](.): ✗
 - [Literals](.): ✗
-- .Generics: ✗
+- Generics: ✗
     - [Constraints](.): ✗
     - [Conditional types](.): ✗
 - [Narrowing](.): ✗
