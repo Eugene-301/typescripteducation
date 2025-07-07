@@ -9,16 +9,17 @@ let color: "red" | "green";
 
 // unioin type in objects
 type MainInfo = {
-    firstName: string;
-    lastName: string;
-}
+  firstName: string;
+  lastName: string;
+};
 
 type AdditionalInfo = {
-    age: number;
-}
+  age: number;
+};
+console.log();
 
 type FullInfo = AdditionalInfo | MainInfo;
 
-const info0: FullInfo = { firstName: "123", lastName: "123", age: 123 }
-const info1: FullInfo = { firstName: "qwe", lastName: "qwe" }
-const info2: FullInfo = { age: 345 }
+const info0: FullInfo = { firstName: "123", lastName: "123", age: 123 };
+const info1: FullInfo = { firstName: "qwe", lastName: "qwe" };
+const info2: FullInfo = { age: 345 };

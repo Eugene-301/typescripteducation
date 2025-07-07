@@ -5,13 +5,16 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "ts": "tsc --watch"
+    "ts": "tsc --watch",
+    "prettify": "onchange 'src/**/*.ts' -- prettier --write src/**/*.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
+    "onchange": "^7.1.0",
+    "prettier": "^3.6.2",
     "typescript": "^5.8.3"
   }
 }
