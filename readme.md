@@ -11,8 +11,8 @@
 - Special types: ↺
     - [Any type](.): ✓
     - [Unkown type](.): ✓
-    - [Never type](.): ↺
-    - [Void type](.): ✗
+    - [Never type](.): ✓
+    - [Void type](.): ↺
 - [Composite types](.): ✗
 - [Literals](.): ✗
 - .Generics: ✗
