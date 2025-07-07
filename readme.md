@@ -3,7 +3,7 @@
 
 
 ## Current completed topics:
-- [Typification](.): ✗
+- [Typification](./src/typification.ts): ✓
 - [Union and intersection](.): ✗
 - [Super type and sub type](.): ✗
 - [Special types](.): ✗ 
