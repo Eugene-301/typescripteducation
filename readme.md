@@ -4,7 +4,7 @@
 
 ## Current completed topics:
 - [Typification](./src/typification.ts): ✓
-- [Sets]: ✓
+- Sets: ✓
     - [Union](./src/union.ts): ✓
     - [Intersection](./src/intersection.ts): ✓
 - [Super type and sub type](.): ✗
