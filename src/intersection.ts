@@ -13,3 +13,10 @@ type MainInfo = {
 type AdditionalInfo = {
   age: number;
 };
+
+type FullInfo = MainInfo & AdditionalInfo;
+
+const info0: FullInfo = { firstName: "123", lastName: "123", age: 123 };
+// Causes error:
+// const info1: FullInfo = { firstName: "qwe", lastName: "qwe" };
+// const info2: FullInfo = { age: 345 };
