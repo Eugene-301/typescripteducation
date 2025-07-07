@@ -16,7 +16,6 @@ type MainInfo = {
 type AdditionalInfo = {
   age: number;
 };
-console.log();
 
 type FullInfo = AdditionalInfo | MainInfo;
 
