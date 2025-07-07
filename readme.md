@@ -38,4 +38,4 @@
 
 For uncompleted topics: ✗
 For completed topics: ✓
-Fot in progress topics: ↺
+For in progress topics: ↺
