@@ -8,7 +8,8 @@
     - [Union](./src/union.ts): ✓
     - [Intersection](./src/intersection.ts): ✓
 - [Super type and sub type](./src/superTypesAndSubTypes.ts): ✓
-- [Special types](.): ✗ 
+- [Special types](.): ↺
+    - [Any type](.): ↺
     - [Unkown type](.): ✗
     - [Never type](.): ✗
     - [Void type](.): ✗
