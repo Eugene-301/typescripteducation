@@ -14,8 +14,8 @@
     - [Never type](./src/never.ts): ✓
     - [Void type](./src/void.ts): ✓
 - [Composite types](./src/compositeTypes.ts): ✓
-- [Literals](.): ↺
-- Generics: ✗
+- [Literals](./src/literals.ts): ✓
+- Generics: ↺
     - [Constraints](.): ✗
     - [Conditional types](.): ✗
 - [Narrowing](.): ✗
