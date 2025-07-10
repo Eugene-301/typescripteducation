@@ -13,7 +13,7 @@
     - [Unkown type](./src/unkown.ts): ✓
     - [Never type](./src/never.ts): ✓
     - [Void type](./src/void.ts): ✓
-- [Composite types](.): ✗
+- [Composite types](.): ↺
 - [Literals](.): ✗
 - Generics: ✗
     - [Constraints](.): ✗
