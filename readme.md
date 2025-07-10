@@ -16,7 +16,8 @@
 - [Composite types](./src/compositeTypes.ts): ✓
 - [Literals](./src/literals.ts): ✓
 - Generics: ↺
-    - [Constraints](.): ✗
+    - [Basics](./src/genericsBasics.ts): ✓
+    - [Constraints](d): ✗
     - [Conditional types](.): ✗
 - [Narrowing](.): ✗
 - [Type guards](.): ✗
