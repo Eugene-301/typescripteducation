@@ -16,8 +16,8 @@
 - [Literals](./src/literals.ts) ✓
 - Generics ↺
   - [Basics](./src/genericsBasics.ts) ✓
-  - [Constraints](d) ↺
-  - [Conditional types](.) ✗
+  - [Constraints](./src/genericsConstraints.ts) ✓
+  - [Conditional types](.) ↺
 - [Narrowing](.) ✗
 - [Type guards](.) ✗
 - [Type asserion](.) ✗
