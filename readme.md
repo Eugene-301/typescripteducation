@@ -41,6 +41,6 @@
 
 [TypeScript ФУНДАМЕНТАЛЬНЫЙ КУРС от А до Я. Вся теория + практика](https://www.youtube.com/watch?v=LWtHl__oEWc&t=8681s) (Video)
 
-For uncompleted topics: ✗
-For completed topics: ✓
+For uncompleted topics: ✗  
+For completed topics: ✓  
 For in progress topics: ↺
