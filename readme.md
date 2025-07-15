@@ -18,7 +18,7 @@
   - [Basics](./src/genericsBasics.ts) ✓
   - [Constraints](./src/genericsConstraints.ts) ✓
   - [Conditional types](./src/genericsConditionalTypes.ts) ✓
-- [Narrowing](.) ✓
+- [Narrowing](.) ↺
 - [Type guards](.) ✗
 - [Type asserion](.) ✗
 - [Possible problems with objects](.) ✗
