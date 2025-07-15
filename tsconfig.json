@@ -1,7 +1,8 @@
 {
-    "compilerOptions": {
-        "outDir": "./compiled",
-        "rootDir": "./src"
-    },
-    "include": ["src/**/*"]
+  "compilerOptions": {
+    "outDir": "./compiled",
+    "rootDir": "./src",
+    "target": "es2024"
+  },
+  "include": ["src/**/*"]
 }
