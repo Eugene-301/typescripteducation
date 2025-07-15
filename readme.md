@@ -20,7 +20,7 @@
   - [Conditional types](./src/genericsConditionalTypes.ts) ✓
 - [Narrowing](./src/narrowing.ts) ✓
 - [Type guards](./src/typeGuards.ts) ✓
-- [Type asserion](.) ↺
+- [Type assertion](.) ↺
 - [Possible problems with objects](.) ✗
 - [typeof and keyof operators](.) ✗
 - [Optional chaining and non-null operators](.) ✗
