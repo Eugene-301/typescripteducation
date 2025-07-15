@@ -18,8 +18,8 @@
   - [Basics](./src/genericsBasics.ts) ✓
   - [Constraints](./src/genericsConstraints.ts) ✓
   - [Conditional types](./src/genericsConditionalTypes.ts) ✓
-- [Narrowing](.) ↺
-- [Type guards](.) ✗
+- [Narrowing](./src/narrowing.ts) ✓
+- [Type guards](.) ↺
 - [Type asserion](.) ✗
 - [Possible problems with objects](.) ✗
 - [typeof and keyof operators](.) ✗
