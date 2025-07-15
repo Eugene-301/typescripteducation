@@ -14,11 +14,11 @@
   - [Void type](./src/void.ts) ✓
 - [Composite types](./src/compositeTypes.ts) ✓
 - [Literals](./src/literals.ts) ✓
-- Generics ↺
+- Generics ✓
   - [Basics](./src/genericsBasics.ts) ✓
   - [Constraints](./src/genericsConstraints.ts) ✓
-  - [Conditional types](.) ↺
-- [Narrowing](.) ✗
+  - [Conditional types](./src/genericsConditionalTypes.ts) ✓
+- [Narrowing](.) ✓
 - [Type guards](.) ✗
 - [Type asserion](.) ✗
 - [Possible problems with objects](.) ✗
